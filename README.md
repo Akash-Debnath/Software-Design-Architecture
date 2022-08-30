@@ -1,2 +1,3 @@
-# SoftwareDesignArchitectureLab1825037
-Software Design and Architecture Lab course for BSSE, NSTU (2017-18)
+# Software Design Architecture
+
+#### This is a full documentation where every steps of software design and architecture described furnished way.
